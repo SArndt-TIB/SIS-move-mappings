@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/suse/ontologies/2020/9/untitled-ontology-31#"
+     xml:base="http://www.semanticweb.org/suse/ontologies/2020/9/untitled-ontology-31"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:terms="http://purl.org/dc/terms/">
+    <owl:Ontology>
+        <owl:imports rdf:resource="http://www.w3.org/2004/02/skos/core"/>
+        <owl:imports rdf:resource="https://www.fid-move.de/vocabulary/pachl-gnd"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept101 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept101">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/1068930128"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept139 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept139">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/1041271352"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept140 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept140">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4151928-0"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept147 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept147">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4153544-3"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept148 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept148">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4153545-5"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept170 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept170">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4127462-3"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept186 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept186">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:closeMatch rdf:resource="https://d-nb.info/gnd/4153577-7"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept213 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept213">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:closeMatch rdf:resource="https://d-nb.info/gnd/4232937-1"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept229 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept229">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4134844-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept234 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept234">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/7615069-0"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept24 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept24">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4002179-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept241 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept241">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4242499-9"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept252 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept252">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:closeMatch rdf:resource="https://d-nb.info/gnd/4158936-1"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept259 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept259">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4146558-1"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept266 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept266">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4232935-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept267 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept267">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:closeMatch rdf:resource="https://d-nb.info/gnd/4065564-7"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept279 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept279">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/7756763-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept283 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept283">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:broadMatch rdf:resource="https://d-nb.info/gnd/4132427-4"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept290 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept290">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4746068-4"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept294 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept294">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4332716-3"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept298 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept298">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4014038-6"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept3 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept3">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4236796-7"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept300 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept300">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4232938-3"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept307 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept307">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/7666206-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept328 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept328">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4041485-1"/>
+        <skos:exactMatch rdf:resource="https://www.fid-move.de/vocabulary/pachl#Concept677"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept345 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept345">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:closeMatch rdf:resource="https://d-nb.info/gnd/4498167-3"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept346 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept346">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/7734221-5"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept348 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept348">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4176942-9"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept350 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept350">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4176943-0"/>
+        <skos:exactMatch rdf:resource="https://www.fid-move.de/vocabulary/pachl#Concept909"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept38 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept38">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4014024-6"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept384 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept384">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4051865-6"/>
+        <skos:exactMatch rdf:resource="https://www.fid-move.de/vocabulary/pachl#Concept416"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept39 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept39">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4129465-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept395 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept395">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4181160-4"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept404 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept404">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4650566-0"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept410 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept410">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/1164385550"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept415 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept415">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4699331-9"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept416 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept416">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4051865-6"/>
+        <skos:exactMatch rdf:resource="https://www.fid-move.de/vocabulary/pachl#Concept384"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept420 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept420">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4126363-7"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept424 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept424">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4057884-7"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept427 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept427">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4233825-6"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept440 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept440">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4471477-4"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept45 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept45">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4263571-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept455 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept455">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4444829-6"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept458 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept458">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4078569-5"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept460 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept460">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:broadMatch rdf:resource="https://d-nb.info/gnd/4220909-2"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept497 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept497">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4136183-0"/>
+        <skos:exactMatch rdf:resource="https://www.fid-move.de/vocabulary/pachl#Concept861"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept504 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept504">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4670610-0"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept505 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept505">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:closeMatch rdf:resource="https://d-nb.info/gnd/4065564-7"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept507 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept507">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4190010-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept512 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept512">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4151506-7"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept514 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept514">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:closeMatch rdf:resource="https://d-nb.info/gnd/4232937-1"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept520 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept520">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/1076299814"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept527 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept527">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/7536520-0"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept644 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept644">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:broadMatch rdf:resource="https://d-nb.info/gnd/4041485-1"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept658 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept658">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4336564-4"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept677 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept677">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4041485-1"/>
+        <skos:exactMatch rdf:resource="https://www.fid-move.de/vocabulary/pachl#Concept328"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept758 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept758">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/7734231-8"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept80 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept80">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/7840012-0"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept83 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept83">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4194565-7"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept861 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept861">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4136183-0"/>
+        <skos:exactMatch rdf:resource="https://www.fid-move.de/vocabulary/pachl#Concept497"/>
+    </rdf:Description>
+    
+
+
+    <!-- https://www.fid-move.de/vocabulary/pachl#Concept909 -->
+
+    <rdf:Description rdf:about="https://www.fid-move.de/vocabulary/pachl#Concept909">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <skos:exactMatch rdf:resource="https://d-nb.info/gnd/4176943-0"/>
+        <skos:exactMatch rdf:resource="https://www.fid-move.de/vocabulary/pachl#Concept350"/>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
