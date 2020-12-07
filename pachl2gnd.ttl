@@ -1,0 +1,391 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept101
+<https://www.fid-move.de/vocabulary/pachl#Concept101> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/1068930128> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Buchfahrplan>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept139
+<https://www.fid-move.de/vocabulary/pachl#Concept139> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/1041271352> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#elektromechanisches_Stellwerk>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept140
+<https://www.fid-move.de/vocabulary/pachl#Concept140> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4151928-0> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#ESTW>" ,
+                                                                       "<http://www.joernpachl.de/glossar.html#elektronisches_Stellwerk>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept147
+<https://www.fid-move.de/vocabulary/pachl#Concept147> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4153544-3> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Fahrdienstleiter>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept148
+<https://www.fid-move.de/vocabulary/pachl#Concept148> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4153545-5> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Fahrdienstvorschrift>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept170
+<https://www.fid-move.de/vocabulary/pachl#Concept170> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4127462-3> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Fahrstraße>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept186
+<https://www.fid-move.de/vocabulary/pachl#Concept186> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#closeMatch> <https://d-nb.info/gnd/4153577-7> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Fahrweg>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept213
+<https://www.fid-move.de/vocabulary/pachl#Concept213> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#closeMatch> <https://d-nb.info/gnd/4232937-1> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Funkzugbeeinflussung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept229
+<https://www.fid-move.de/vocabulary/pachl#Concept229> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4134844-8> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Gleisbildstellwerk>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept234
+<https://www.fid-move.de/vocabulary/pachl#Concept234> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/7615069-0> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Gleisstromkreis>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept24
+<https://www.fid-move.de/vocabulary/pachl#Concept24> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                     <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4002179-8> ;
+                                                     rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Anschlussbahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept241
+<https://www.fid-move.de/vocabulary/pachl#Concept241> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4242499-9> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Grubenbahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept252
+<https://www.fid-move.de/vocabulary/pachl#Concept252> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#closeMatch> <https://d-nb.info/gnd/4158936-1> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Haltestelle>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept259
+<https://www.fid-move.de/vocabulary/pachl#Concept259> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4146558-1> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Hemmschuh>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept266
+<https://www.fid-move.de/vocabulary/pachl#Concept266> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4232935-8> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Indusi>" ,
+                                                                       "<http://www.joernpachl.de/glossar.html#induktive_Zugbeeinflussung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept267
+<https://www.fid-move.de/vocabulary/pachl#Concept267> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#closeMatch> <https://d-nb.info/gnd/4065564-7> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Industriebahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept279
+<https://www.fid-move.de/vocabulary/pachl#Concept279> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/7756763-8> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Kopfbahnhof>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept283
+<https://www.fid-move.de/vocabulary/pachl#Concept283> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#broadMatch> <https://d-nb.info/gnd/4132427-4> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Kreuzung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept290
+<https://www.fid-move.de/vocabulary/pachl#Concept290> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4746068-4> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Laufzielbremsung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept294
+<https://www.fid-move.de/vocabulary/pachl#Concept294> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4332716-3> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Leitsysteme>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept298
+<https://www.fid-move.de/vocabulary/pachl#Concept298> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4014038-6> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Linie>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept3
+<https://www.fid-move.de/vocabulary/pachl#Concept3> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                    <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4236796-7> ;
+                                                    rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Ablaufberg>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept300
+<https://www.fid-move.de/vocabulary/pachl#Concept300> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4232938-3> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#LZB>" ,
+                                                                       "<http://www.joernpachl.de/glossar.html#linienförmige_Zugbeeinflussung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept307
+<https://www.fid-move.de/vocabulary/pachl#Concept307> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/7666206-8> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#mechanisches_Stellwerk>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept328
+<https://www.fid-move.de/vocabulary/pachl#Concept328> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4041485-1> ,
+                                                                                                       <https://www.fid-move.de/vocabulary/pachl#Concept677> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Nebenbahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept345
+<https://www.fid-move.de/vocabulary/pachl#Concept345> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#closeMatch> <https://d-nb.info/gnd/4498167-3> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Pufferzeit>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept346
+<https://www.fid-move.de/vocabulary/pachl#Concept346> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/7734221-5> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#punktförmige_Zugbeeinflussung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept348
+<https://www.fid-move.de/vocabulary/pachl#Concept348> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4176942-9> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Rangierbahnhof>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept350
+<https://www.fid-move.de/vocabulary/pachl#Concept350> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4176943-0> ,
+                                                                                                       <https://www.fid-move.de/vocabulary/pachl#Concept909> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Rangierfahrten>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept38
+<https://www.fid-move.de/vocabulary/pachl#Concept38> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                     <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4014024-6> ;
+                                                     rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Bahnbetrieb>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept39
+<https://www.fid-move.de/vocabulary/pachl#Concept39> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                     <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4129465-8> ;
+                                                     rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Bahnhof>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept395
+<https://www.fid-move.de/vocabulary/pachl#Concept395> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4181160-4> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Sicherheitsfahrschaltung>" ,
+                                                                       "<http://www.joernpachl.de/glossar.html#Sifa>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept404
+<https://www.fid-move.de/vocabulary/pachl#Concept404> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4650566-0> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Sonderzug>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept410
+<https://www.fid-move.de/vocabulary/pachl#Concept410> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/1164385550> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Sperrzeitentreppe>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept415
+<https://www.fid-move.de/vocabulary/pachl#Concept415> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4699331-9> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Stadtbahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept416
+<https://www.fid-move.de/vocabulary/pachl#Concept416> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4051865-6> ,
+                                                                                                       <https://www.fid-move.de/vocabulary/pachl#Concept384> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#S-Bahn>" ,
+                                                                       "<http://www.joernpachl.de/glossar.html#Stadtschnellbahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept420
+<https://www.fid-move.de/vocabulary/pachl#Concept420> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4126363-7> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Stellwerk>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept424
+<https://www.fid-move.de/vocabulary/pachl#Concept424> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4057884-7> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Straßenbahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept427
+<https://www.fid-move.de/vocabulary/pachl#Concept427> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4233825-6> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Streckenblock>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept440
+<https://www.fid-move.de/vocabulary/pachl#Concept440> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4471477-4> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Taktfahrplan>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept45
+<https://www.fid-move.de/vocabulary/pachl#Concept45> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                     <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4263571-8> ;
+                                                     rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Bahnübergang>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept455
+<https://www.fid-move.de/vocabulary/pachl#Concept455> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4444829-6> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Triebfahrzeug>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept458
+<https://www.fid-move.de/vocabulary/pachl#Concept458> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4078569-5> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#U-Bahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept460
+<https://www.fid-move.de/vocabulary/pachl#Concept460> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#broadMatch> <https://d-nb.info/gnd/4220909-2> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Überholen>" ,
+                                                                       "<http://www.joernpachl.de/glossar.html#Überholung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept497
+<https://www.fid-move.de/vocabulary/pachl#Concept497> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4136183-0> ,
+                                                                                                       <https://www.fid-move.de/vocabulary/pachl#Concept861> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Weiche>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept504
+<https://www.fid-move.de/vocabulary/pachl#Concept504> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4670610-0> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Wendezug>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept505
+<https://www.fid-move.de/vocabulary/pachl#Concept505> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#closeMatch> <https://d-nb.info/gnd/4065564-7> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Werkbahn>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept507
+<https://www.fid-move.de/vocabulary/pachl#Concept507> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4190010-8> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Wirbelstrombremse>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept512
+<https://www.fid-move.de/vocabulary/pachl#Concept512> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4151506-7> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Zugfahrten>" ,
+                                                                       "<http://www.joernpachl.de/glossar.html#Züge>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept514
+<https://www.fid-move.de/vocabulary/pachl#Concept514> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#closeMatch> <https://d-nb.info/gnd/4232937-1> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Zugbeeinflussung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept520
+<https://www.fid-move.de/vocabulary/pachl#Concept520> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/1076299814> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Zuggattung>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept527
+<https://www.fid-move.de/vocabulary/pachl#Concept527> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/7536520-0> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Zugleitbetrieb>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept644
+<https://www.fid-move.de/vocabulary/pachl#Concept644> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#broadMatch> <https://d-nb.info/gnd/4041485-1> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossary.htm#SPUR>" ,
+                                                                       "<http://www.joernpachl.de/glossary.htm#SPUR_TRACK>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept658
+<https://www.fid-move.de/vocabulary/pachl#Concept658> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4336564-4> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossary.htm#ATC>" ,
+                                                                       "<http://www.joernpachl.de/glossary.htm#AUTOMATIC_TRAIN_CONTROL>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept677
+<https://www.fid-move.de/vocabulary/pachl#Concept677> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4041485-1> ,
+                                                                                                       <https://www.fid-move.de/vocabulary/pachl#Concept328> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossary.htm#BRANCH>" ,
+                                                                       "<http://www.joernpachl.de/glossary.htm#BRANCHLINE>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept758
+<https://www.fid-move.de/vocabulary/pachl#Concept758> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/7734231-8> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossary.htm#ETCS>" ,
+                                                                       "<http://www.joernpachl.de/glossary.htm#EUROPEAN_TRAIN_CONTROL_SYSTEM>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept80
+<https://www.fid-move.de/vocabulary/pachl#Concept80> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                     <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/7840012-0> ;
+                                                     rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Bildfahrplan>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept83
+<https://www.fid-move.de/vocabulary/pachl#Concept83> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                     <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4194565-7> ;
+                                                     rdfs:isDefinedBy "<http://www.joernpachl.de/glossar.html#Blockanlage>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept861
+<https://www.fid-move.de/vocabulary/pachl#Concept861> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4136183-0> ,
+                                                                                                       <https://www.fid-move.de/vocabulary/pachl#Concept497> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossary.htm#POINTS>" .
+
+
+###  https://www.fid-move.de/vocabulary/pachl#Concept909
+<https://www.fid-move.de/vocabulary/pachl#Concept909> rdf:type <http://www.w3.org/2004/02/skos/core#Concept> ;
+                                                      <http://www.w3.org/2004/02/skos/core#exactMatch> <https://d-nb.info/gnd/4176943-0> ,
+                                                                                                       <https://www.fid-move.de/vocabulary/pachl#Concept350> ;
+                                                      rdfs:isDefinedBy "<http://www.joernpachl.de/glossary.htm#SHUNTING>" ,
+                                                                       "<http://www.joernpachl.de/glossary.htm#SWITCHING>" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
