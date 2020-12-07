@@ -5,5 +5,5 @@ The development of the linked vocabularies for SIS move is not fully open yet. W
 
 Please refer to related resources from this conference for more information:
 - Slides: Arndt, Susanne, & Runnwerth, Mila. (2020, December). Linked vocabularies for mobility and transport research. Presented at the 14th International Conference on Metadata and Semantics Research (MTSR 2020), Zenodo. http://doi.org/10.5281/zenodo.4304552
-- Videp presentation: Arndt, Susanne; Runnwerth, Mila: Linked vocabularies for mobility and transport research. https://doi.org/10.5446/50208
+- Video presentation: Arndt, Susanne; Runnwerth, Mila: Linked vocabularies for mobility and transport research. https://doi.org/10.5446/50208
 - A full paper will be available soon.
